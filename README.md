@@ -16,6 +16,6 @@
 
 <!--[![notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://seodawon.notion.site/Web-Developer-567c47ab15e5490994e50b527510bb69) [![tistory](https://img.shields.io/badge/tistory-ff5544?style=for-the-badge&logo=tistory&logoColor=white)](https://dawonny.tistory.com/) [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wonny_dev/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%8B%A4%EC%9B%90-%EC%84%9C-77846b295/)-->
 
-### Stats
-<!--[![github stats](https://github-readme-stats.vercel.app/api?username=firstquarterlee&show_icons=true&hide_border=true)](https://github.com/firstquarterlee)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firstquarterlee&layout=compact)](https://github.com/firstquarterlee)
+<!-- ### Stats
+<!-- [![github stats](https://github-readme-stats.vercel.app/api?username=firstquarterlee&show_icons=true&hide_border=true)](https://github.com/firstquarterlee) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firstquarterlee&layout=compact)](https://github.com/firstquarterlee) -->
