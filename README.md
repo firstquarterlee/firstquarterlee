@@ -2,11 +2,9 @@
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Ffirstquarterlee)](https://hits.seeyoufarm.com)-->                
 
 ### Intro![giphy (1) (1)](https://user-images.githubusercontent.com/61732452/104490936-deaac400-5614-11eb-967e-af3f097b965e.gif)
-> 안녕하세요! Leessang입니다.
+> Hi, I’m Leessang.
 > <br>
-> 현재 Flutter에 관심이 많습니다.
-> <br>
-> 꾸준함의 힘을 믿습니다.
+> I’m really into Flutter and passionate about development.
 
 ### Languages & Tools
 
