@@ -4,11 +4,11 @@
 ### Intro![giphy (1) (1)](https://user-images.githubusercontent.com/61732452/104490936-deaac400-5614-11eb-967e-af3f097b965e.gif)
 > Hi, I’m Leessang.
 > <br>
-> I’m really into Flutter and passionate about development.
+> I’m currently focused on frontend development, especially improving performance and user experience. I’m always looking to collaborate with developers who are more experienced than I am — I love learning from others and growing together as a team.
 
 ### Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,react,typescript,js,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,js,python,flutter)](https://skillicons.dev)
 
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDawon00&count_bg=%23B1C978&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%80++Today%27s+Visits+%2F+Total+Visits&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
