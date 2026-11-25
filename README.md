@@ -5,6 +5,7 @@
 > Hi, I’m Leessang.
 > <br>
 > Software Engineer & Builder.
+> <br>
 > Always learning, always building.
 
 <!-- ### Languages & Tools
